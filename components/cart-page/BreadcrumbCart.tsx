@@ -1,4 +1,6 @@
 import React from "react";
+import BreadcrumbCart from '@/components/cart-page/BreadcrumbCart';
+
 import {
   Breadcrumb,
   BreadcrumbItem,
