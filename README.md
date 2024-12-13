@@ -1,4 +1,4 @@
-[![Shopco Screenshot](https://github.com/nida786khan/Hackathon-Template-1-web.git)](https://next-ecommerce-shopco.vercel.app/)
+
 
 # Shopco
 
